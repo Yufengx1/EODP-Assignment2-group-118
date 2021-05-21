@@ -17,3 +17,5 @@
 # import os
 # import matplotlib.pyplot as plt
 # import math
+
+the two .py files are our code files.
